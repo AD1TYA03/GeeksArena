@@ -17,7 +17,7 @@ const Hero = ()=>{
         </div>
         <div className="flex-1">
           <img
-            src="../../public/logo.png"
+            src="../assets/logo.png"
             alt="Community of Developers"
             className="w-full h-auto"
           />
